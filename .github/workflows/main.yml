@@ -1,0 +1,3 @@
+mkdir MyFirstRepo
+cd MyFirstRepo
+git init
